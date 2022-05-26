@@ -11,16 +11,18 @@ Pizza Hunt—a self-aware riff on social-media applications that already exist f
 * Javascript
 * HTML
 * CSS
-* Node.js and Express.js to create a RESTful API
-* Handlebars.js as the templating engine
-* MySQL and the Sequelize ORM for the database
-* GET and POST routes for retrieving and adding new data
+* Node.js and Express.js for routing
+* NoSQL database MondoDB
+* Mongoose, ODM, to map MongoDB’s document representations of data to a virtual object database
+* PWA
 * Heroku
 
-# Website
+# website
 
-# Screenshot
+https://lit-stream-95396.herokuapp.com/
 
-# Contribution
+# screenshot
+
+# contribution
 
 Made by Boris Veselov
