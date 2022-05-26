@@ -12,7 +12,7 @@ Pizza Hunt—a self-aware riff on social-media applications that already exist f
 * HTML
 * CSS
 * Node.js and Express.js for routing
-* NoSQL database MondoDB
+* NoSQL database MongoDB
 * Mongoose, ODM, to map MongoDB’s document representations of data to a virtual object database
 * PWA
 * Heroku
