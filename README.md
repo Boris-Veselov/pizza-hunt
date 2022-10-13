@@ -8,7 +8,6 @@ Pizza-hunt
 * [Technologies](#technologies)
 * [Preview](#preview)
 * [Website-link](#website-link)
-* [Installation](#installation)
 * [Contribution](#contribution)
 * [Contact](#contact)
 
